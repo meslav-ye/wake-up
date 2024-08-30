@@ -1,29 +1,27 @@
 body {
-    background-color: black;
-    color: #00ff00;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 24px;
     margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background: black;
+    color: #00FF00;
     overflow: hidden;
     position: relative;
-    height: 100vh;
 }
 
 .matrix-container {
     position: absolute;
-    top: 10px;
-    left: 10px;
-    white-space: pre-wrap;
+    top: 0;
+    left: 0;
+    padding: 20px;
 }
 
-.line {
-    display: block;
-}
-
-.rabbit-icon {
-    position: absolute;
+.rabbit-container {
+    position: fixed;
     bottom: 10px;
     right: 10px;
-    font-size: 18px;
+    z-index: 10;
+}
+
+#rabbit-icon {
+    font-size: 2rem;
     cursor: pointer;
 }
