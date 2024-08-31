@@ -7,7 +7,7 @@ const names = [
     "Ksenija", "Marta", "Milenka", "Ružica", "Sanja", "Irena", "Zdravka",
     "Branimir", "Davor", "Goran", "Igor", "Jure", "Mladen", "Nenad", "Slaven",
     "Vladimir", "Zoran", "Zlatko", "Rajko", "Miroslav", "Vinko", "Dušan",
-    "Alojzije", "Milena", "Dragica", "Ena", "Janja", "Gordana", "Anita", "Diana", "Elvira",
+    "Alen", "Milena", "Dragica", "Ena", "Janja", "Gordana", "Anita", "Diana", "Elvira",
     "Jasna", "Lucija", "Tijana", "Valentina", "Vera", "Bernarda", "Radojka",
     "Svetlana", "Zlatica", "Rajka", "Stela", "Jelica", "Bojana", "Miroslava",
     "Slavica", "Danijela", "Mirna", "Ljubica", "Filip", "Karlo", "Lovro",
@@ -16,7 +16,9 @@ const names = [
     "Slađana", "Ljiljana", "Branka", "Jasmina", "Kristina", "Nataša", "Anica",
     "Renata", "Milica", "Ivona", "Manuela", "Antonio", "Ema", "Anamarija", "Martina", "Dominik", "Domagoj",
     "Marijana", "Petra", "Gabriela", "Vana", "Ines", "Bruno", "Karla", "David", "Tena", "Leo", "Andjela",
-    "Matea", "Antonela", "Dea", "Andrea", "Benjamin", "Mato", "Helena"
+    "Matea", "Antonela", "Dea", "Andrea", "Benjamin", "Mato", "Helena",
+    "Matej", "Mateo", "Fran", "Nika", "Rita", "Marin", "Adrian", "Teo",
+    "Mihael", "Tara", "Roza", "Leona", "Hana", "Adam"
 ];
 
 let availableNames = [...names];
